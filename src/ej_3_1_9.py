@@ -1,4 +1,4 @@
-vocales = [["a", 0], ["e", 0], ["i", 0], ["o", 0], ["u", 0]]
+vocales = (["a", 0], ["e", 0], ["i", 0], ["o", 0], ["u", 0])
 
 def pedir_palabra() -> str:
     palabra = input("Introduce una palabra: ")
